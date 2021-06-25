@@ -1,0 +1,24 @@
+{
+  "name": "gql-is-hard",
+  "version": "1.0.0",
+  "description": "Practice project to figure out how to get gql to work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GKhankles/gql-is-hard.git"
+  },
+  "author": "George Khankeldian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GKhankles/gql-is-hard/issues"
+  },
+  "homepage": "https://github.com/GKhankles/gql-is-hard#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.12.0",
+    "graphql": "^15.5.1"
+  }
+}
