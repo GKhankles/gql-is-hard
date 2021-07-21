@@ -1,0 +1,9 @@
+type Pokemon {
+    index: Int!
+    name: String!
+    type: [String!]
+}
+
+type Query {
+    pokedex: [Pokemon!]
+}
